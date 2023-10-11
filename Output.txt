@@ -1,0 +1,9 @@
+The side for the Triangle is below 0
+Exception thrown. Enter a number above 0: 10
+Perimeter of the square is 60.00
+The area of the square is 120.00
+
+The side for the Square is below 0
+Exception thrown. Enter a number above 0: 8.88
+Perimeter of the square is 35.52
+The area of the square is 78.85
